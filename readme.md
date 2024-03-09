@@ -5,7 +5,7 @@
 ### 1.Fork this repo :
 
 ```
-git clone https://github.com/aRc-rAy/Deep_Logic_Tech
+git clone https://github.com/aRc-rAy/Deep_Logic_Tech.git
 ```
 
 ### 2. Move to folder
